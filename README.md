@@ -1,6 +1,6 @@
 # 🎓 College Connect  
 ### A Networking Hub for Students Powered by Streamlit & Firebase
-
+![App Demo](assets/demo.gif)
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.11+-blue.svg"/>
   <img src="https://img.shields.io/badge/streamlit-WebApp-red"/>
